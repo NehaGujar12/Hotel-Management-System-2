@@ -11,8 +11,7 @@ Automated bill generation
 GUI version using Tkinter
 
 CLI version for basic operations
-
- Technologies Used
+#  Technologies Used
 Python 3.x
 
 Tkinter (for GUI)
